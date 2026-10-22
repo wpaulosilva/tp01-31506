@@ -1,0 +1,1 @@
+SELECT * FROM alojamento.dbo.extrato;

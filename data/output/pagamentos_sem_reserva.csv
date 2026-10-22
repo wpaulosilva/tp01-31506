@@ -1,0 +1,11 @@
+pagamento_id;reserva_id;valor;moeda;data_pagamento;metodo;estado;ano;mes;valor_eur;proprietario_id;valor_reserva_eur
+PG-0006;BK-0006;170;EUR;2026-01-02;mbway        ;pago;2026;1;170;SEM;
+PG-0011;BK-0011;178.2;USD;2026-06-04;cartao       ;pago;2026;6;153.09;SEM;
+PG-0030;BK-0030;275;EUR;2026-09-11;transferencia;pago;2026;9;275;SEM;
+PG-0034;AB-0002;110;EUR;2026-05-10;transferencia;pago;2026;5;110;SEM;
+PG-0040;AB-0008;330;EUR;2026-08-23;mbway        ;pago;2026;8;330;SEM;
+PG-0041;AB-0009;720;EUR;2026-07-09;cartao       ;pago;2026;7;720;SEM;
+PG-0049;AB-0017;330;EUR;2026-09-20;transferencia;pago;2026;9;330;SEM;
+PG-0058;AB-0026;110;EUR;2026-05-21;paypal       ;pago;2026;5;110;SEM;
+PG-0064;AB-0032;220;EUR;2026-03-31;mbway        ;pago;2026;3;220;SEM;
+PG-9999;XX-0000;150;EUR;2026-03-10;cartao       ;pago;2026;3;150;SEM;

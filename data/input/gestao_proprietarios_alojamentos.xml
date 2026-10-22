@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gestao empresa="Gestao de Alojamento Local, Lda">
+  <proprietarios>
+    <proprietario id="P01">
+      <nome>Maria Fernanda Costa</nome>
+      <nif>215881397</nif>
+      <email>maria.costa@email.pt</email>
+      <telefone>+351 912 345 678</telefone>
+      <comissao_pct>18</comissao_pct>
+    </proprietario>
+    <proprietario id="P02">
+      <nome>Joao Pedro Almeida</nome>
+      <nif>298698790</nif>
+      <email>joao.almeida@@email</email>
+      <telefone>253 812 345</telefone>
+      <comissao_pct>20</comissao_pct>
+    </proprietario>
+    <proprietario id="P03">
+      <nome>Ana Luisa Ribeiro</nome>
+      <nif>12345678</nif>
+      <email>ana.ribeiro@email.pt</email>
+      <telefone>965432187</telefone>
+      <comissao_pct>15</comissao_pct>
+    </proprietario>
+    <proprietario id="P04">
+      <nome>Carlos Eduardo Sousa</nome>
+      <nif>217075363</nif>
+      <email>carlos.sousa@email.pt</email>
+      <telefone>+351 934 567 890</telefone>
+      <comissao_pct>20</comissao_pct>
+    </proprietario>
+  </proprietarios>
+  <alojamentos>
+    <alojamento id="A01" proprietario_id="P01">
+      <nome>Casa do Cavado</nome>
+      <localidade>Barcelos</localidade>
+      <quartos>3</quartos>
+      <preco_noite_eur>95</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A02" proprietario_id="P01">
+      <nome>Apartamento Centro Historico</nome>
+      <localidade>Barcelos</localidade>
+      <quartos>2</quartos>
+      <preco_noite_eur>70</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A03" proprietario_id="P02">
+      <nome>Moradia da Ribeira</nome>
+      <localidade>Braga</localidade>
+      <quartos>4</quartos>
+      <preco_noite_eur>130</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A04" proprietario_id="P02">
+      <nome>Studio Sao Victor</nome>
+      <localidade>Braga</localidade>
+      <quartos>0</quartos>
+      <preco_noite_eur>55</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A05" proprietario_id="P03">
+      <nome>Villa Atlantico</nome>
+      <localidade>Esposende</localidade>
+      <quartos>3</quartos>
+      <preco_noite_eur>120</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A06" proprietario_id="P03">
+      <nome>Casa da Praia</nome>
+      <localidade>Esposende</localidade>
+      <quartos>2</quartos>
+      <preco_noite_eur>85</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A07" proprietario_id="P04">
+      <nome>Quinta do Lima</nome>
+      <localidade>Ponte de Lima</localidade>
+      <quartos>5</quartos>
+      <preco_noite_eur>160</preco_noite_eur>
+    </alojamento>
+    <alojamento id="A08" proprietario_id="P04">
+      <nome>Loft Rio Lima</nome>
+      <localidade>Ponte de Lima</localidade>
+      <quartos>1</quartos>
+      <preco_noite_eur>60</preco_noite_eur>
+    </alojamento>
+  </alojamentos>
+</gestao>

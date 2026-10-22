@@ -1,0 +1,6 @@
+id;alojamento_id;data_despesa;tipo;descricao;valor;ano;mes;proprietario_id
+19;A04;2026-05-04;Manutencao ;Manutencao do alojamento A04 ;87;2026;5;SEM
+20;A04;2026-04-19;Consumiveis;Consumiveis do alojamento A04;21;2026;4;SEM
+21;A04;2026-08-05;Manutencao ;Manutencao do alojamento A04 ;214;2026;8;SEM
+22;A04;2026-08-24;Consumiveis;Consumiveis do alojamento A04;37;2026;8;SEM
+23;A04;2026-04-18;Lavandaria ;Lavandaria do alojamento A04 ;45;2026;4;SEM

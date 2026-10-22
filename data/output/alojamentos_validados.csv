@@ -1,0 +1,8 @@
+id;proprietario_id;nome;localidade;quartos;preco_noite_eur
+A01;P01;Casa do Cavado;Barcelos;3;95.00
+A02;P01;Apartamento Centro Historico;Barcelos;2;70.00
+A03;P02;Moradia da Ribeira;Braga;4;130.00
+A05;P03;Villa Atlantico;Esposende;3;120.00
+A06;P03;Casa da Praia;Esposende;2;85.00
+A07;P04;Quinta do Lima;Ponte de Lima;5;160.00
+A08;P04;Loft Rio Lima;Ponte de Lima;1;60.00

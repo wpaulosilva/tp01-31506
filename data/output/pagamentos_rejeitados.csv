@@ -1,0 +1,16 @@
+pagamento_id;reserva_id;valor;moeda;data_pagamento;metodo;estado
+PG-0001;BK-0001;190;EUR;;mbway;falhado
+PG-0002;BK-0002;297;USD;;transferencia;pendente
+PG-0016;BK-0016;1120;EUR;;mbway;pendente
+PG-0017;BK-0017;421.2;USD;;transferencia;pendente
+PG-0032;BK-0032;236.5;GBP;;transferencia;falhado
+PG-0036;AB-0004;240;EUR;;paypal;pendente
+PG-0043;AB-0011;780;EUR;;transferencia;falhado
+PG-0050;AB-0018;360;EUR;;paypal;falhado
+PG-0056;AB-0024;210;EUR;;mbway;pendente
+PG-0057;AB-0025;595;EUR;;paypal;pendente
+PG-0060;AB-0028;600;EUR;;mbway;pendente
+PG-0061;AB-0029;665;EUR;;cartao;falhado
+PG-0062;AB-0030;650;EUR;;mbway;pendente
+PG-0065;AB-0033;595;EUR;;paypal;falhado
+PG-0071;AB-0039;170;EUR;;paypal;falhado

@@ -1,0 +1,35 @@
+reserva_id;alojamento_id;hospede_nome;hospede_email;checkin;checkout;moeda
+BK-0001;A01;David Brown;david.brown@hotmail.com;13/05/2026;15/05/2026;EUR
+BK-0002;A04;Beatriz Gomes;beatriz.gomes@yahoo.com;22/01/2026;27/01/2026;USD
+BK-0003;A03;Laura Garcia;sem-arroba.gmail.com;20/05/2026;23/05/2026;EUR
+BK-0004;A01;Paul Martin;paul.martin@yahoo.com;04/09/2026;11/09/2026;EUR
+BK-0005;A03;Laura Garcia;laura.garcia@outlook.com;10/09/2026;05/09/2026;EUR
+BK-0006;A06;Emma Wilson;;04/09/2026;06/09/2026;EUR
+BK-0007;A05;Tiago Pereira;tiago.pereira@hotmail.com;25/02/2026;03/03/2026;EUR
+BK-0008;A07;  INES CARVALHO  ;ines.carvalho@yahoo.com;06/01/2026;10/01/2026;USD
+BK-0009;A05;Diogo Rocha;diogo.rocha@hotmail.com;15/05/2026;21/05/2026;USD
+BK-0010;A05;Rui Santos;rui.santos@yahoo.com;02-07-2026;09/07/2026;EUR
+BK-0011;A04;Lucas Dupont;lucas.dupont@gmail.com;14/05/2026;17/05/2026;USD
+BK-0012;A06;Diogo Rocha;diogo.rocha@gmail.com;17/03/2026;23/03/2026;EUR
+BK-0013;A05;Beatriz Gomes;beatriz.gomes@yahoo.com;09/01/2026;12/01/2026;EUR
+BK-0014;A05;Marco Rossi;marco.rossi@sapo.pt;27/08/2026;29/08/2026;EUR
+BK-0015;A08;Ines Carvalho;ines.carvalho@yahoo.com;24/05/2026;26/05/2026;EUR
+BK-0016;A07;Anna Schmidt;anna.schmidt@outlook.com;15/01/2026;22/01/2026;EUR
+BK-0017;A03;Marta Oliveira;marta.oliveira@yahoo.com;23/07/2026;26/07/2026;USD
+BK-0018;A02;Laura Garcia;laura.garcia@gmail.com;01/05/2026;04/05/2026;EUR
+BK-0019;A02;Emma Wilson;emma.wilson@outlook.com;26/08/2026;31/08/2026;EUR
+BK-0020;A01;Lucas Dupont;lucas.dupont@outlook.com;31/03/2026;04/04/2026;EUR
+BK-0021;A03;Emma Wilson;emma.wilson@hotmail.com;20/08/2026;25/08/2026;EUR
+BK-0022;A06;David Brown;david.brown@gmail.com;24/05/2026;31/05/2026;EUR
+BK-0023;A06;Diogo Rocha;diogo.rocha@yahoo.com;08/06/2026;15/06/2026;EUR
+BK-0024;A08;Catarina Dias;catarina.dias@sapo.pt;01/04/2026;07/04/2026;EUR
+BK-0025;A08;Sofia Martins;sofia.martins@yahoo.com;01/02/2026;03/02/2026;USD
+BK-0026;A07;Elena Popescu;elena.popescu@sapo.pt;10/06/2026;17/06/2026;EUR
+BK-0027;A07;Sofia Martins;sofia.martins@hotmail.com;17/04/2026;19/04/2026;EUR
+BK-0028;A08;Marta Oliveira;marta.oliveira@gmail.com;21/07/2026;24/07/2026;EUR
+BK-0029;A03;Marco Rossi;marco.rossi@yahoo.com;24/01/2026;26/01/2026;EUR
+BK-0030;A04;David Brown;david.brown@hotmail.com;08/05/2026;13/05/2026;EUR
+BK-0031;A08;Anna Schmidt;anna.schmidt@hotmail.com;07/04/2026;10/04/2026;EUR
+BK-0032;A04;Elena Popescu;elena.popescu@gmail.com;28/03/2026;02/04/2026;GBP
+BK-0004;A01;Paul Martin;paul.martin@yahoo.com;04/09/2026;11/09/2026;EUR
+BK-0012;A06;Diogo Rocha;diogo.rocha@gmail.com;17/03/2026;23/03/2026;EUR

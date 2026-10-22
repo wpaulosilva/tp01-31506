@@ -1,0 +1,3 @@
+id;nome;nif;email;telefone;comissao_pct;email_ok;nif_formato_ok;telefone_ok
+P02;Joao Pedro Almeida;298698790;joao.almeida@@email;253812345;20;N;Y;Y
+P03;Ana Luisa Ribeiro;12345678;ana.ribeiro@email.pt;965432187;15;Y;N;Y

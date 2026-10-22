@@ -1,0 +1,3 @@
+reserva_id;alojamento_id;hospede_nome;hospede_email;checkin;checkout;moeda
+AB-0008;A04;Anna Schmidt;;2026-03-20;2026-03-26;EUR
+AB-0017;A04;;hugo.fernandes@yahoo.com;2026-06-01;2026-06-07;EUR

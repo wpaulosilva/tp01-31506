@@ -1,0 +1,9 @@
+reserva_id;alojamento_id;hospede_nome;hospede_email;checkin;checkout;moeda;proprietario_id
+AB-0002;A04;Rui Santos;ana..silva@@gmail;28/08/2026;30/08/2026;EUR;SEM
+AB-0009;A99;Laura Garcia;laura.garcia@gmail.com;25/03/2026;31/03/2026;EUR;SEM
+AB-0026;A04;Sofia Martins;sofia.martins@outlook.com;10/04/2026;12/04/2026;EUR;SEM
+AB-0032;A04;Marco Rossi;marco.rossi@gmail.com;24/06/2026;28/06/2026;EUR;SEM
+BK-0002;A04;Beatriz Gomes;beatriz.gomes@yahoo.com;22/01/2026;27/01/2026;USD;SEM
+BK-0011;A04;Lucas Dupont;lucas.dupont@gmail.com;14/05/2026;17/05/2026;USD;SEM
+BK-0030;A04;David Brown;david.brown@hotmail.com;08/05/2026;13/05/2026;EUR;SEM
+BK-0032;A04;Elena Popescu;elena.popescu@gmail.com;28/03/2026;02/04/2026;GBP;SEM

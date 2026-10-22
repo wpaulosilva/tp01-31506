@@ -1,0 +1,609 @@
+{
+  "fonte": "gateway_pagamentos",
+  "gerado_em": "2026-10-12",
+  "pagamentos": [
+    {
+      "pagamento_id": "PG-0001",
+      "reserva_id": "BK-0001",
+      "valor": 190,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "mbway",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0002",
+      "reserva_id": "BK-0002",
+      "valor": 297.0,
+      "moeda": "USD",
+      "data_pagamento": null,
+      "metodo": "transferencia",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0003",
+      "reserva_id": "BK-0003",
+      "valor": 390,
+      "moeda": "EUR",
+      "data_pagamento": "2026-01-16",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0004",
+      "reserva_id": "BK-0004",
+      "valor": 665,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-16",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0006",
+      "reserva_id": "BK-0006",
+      "valor": 170,
+      "moeda": "EUR",
+      "data_pagamento": "2026-01-02",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0008",
+      "reserva_id": "BK-0008",
+      "valor": 691.2,
+      "moeda": "USD",
+      "data_pagamento": "2026-03-20",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0009",
+      "reserva_id": "BK-0009",
+      "valor": 777.6,
+      "moeda": "USD",
+      "data_pagamento": "2026-06-17",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0010",
+      "reserva_id": "BK-0010",
+      "valor": 840,
+      "moeda": "EUR",
+      "data_pagamento": "2026-02-07",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0011",
+      "reserva_id": "BK-0011",
+      "valor": 178.2,
+      "moeda": "USD",
+      "data_pagamento": "2026-06-04",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0012",
+      "reserva_id": "BK-0012",
+      "valor": 510,
+      "moeda": "EUR",
+      "data_pagamento": "2026-09-13",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0013",
+      "reserva_id": "BK-0013",
+      "valor": 360,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-07",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0014",
+      "reserva_id": "BK-0014",
+      "valor": 240,
+      "moeda": "EUR",
+      "data_pagamento": "2026-08-22",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0015",
+      "reserva_id": "BK-0015",
+      "valor": 120,
+      "moeda": "EUR",
+      "data_pagamento": "2026-02-14",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0016",
+      "reserva_id": "BK-0016",
+      "valor": 1120,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "mbway",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0017",
+      "reserva_id": "BK-0017",
+      "valor": 421.2,
+      "moeda": "USD",
+      "data_pagamento": null,
+      "metodo": "transferencia",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0018",
+      "reserva_id": "BK-0018",
+      "valor": 210,
+      "moeda": "EUR",
+      "data_pagamento": "2026-08-10",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0019",
+      "reserva_id": "BK-0019",
+      "valor": 350,
+      "moeda": "EUR",
+      "data_pagamento": "2026-09-10",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0020",
+      "reserva_id": "BK-0020",
+      "valor": 380,
+      "moeda": "EUR",
+      "data_pagamento": "2026-04-11",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0021",
+      "reserva_id": "BK-0021",
+      "valor": 650,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-28",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0022",
+      "reserva_id": "BK-0022",
+      "valor": 595,
+      "moeda": "EUR",
+      "data_pagamento": "2026-07-15",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0023",
+      "reserva_id": "BK-0023",
+      "valor": 595,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-07",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0024",
+      "reserva_id": "BK-0024",
+      "valor": 360,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-02",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0025",
+      "reserva_id": "BK-0025",
+      "valor": 129.6,
+      "moeda": "USD",
+      "data_pagamento": "2026-08-16",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0026",
+      "reserva_id": "BK-0026",
+      "valor": 1120,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-18",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0027",
+      "reserva_id": "BK-0027",
+      "valor": 320,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-15",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0028",
+      "reserva_id": "BK-0028",
+      "valor": 180,
+      "moeda": "EUR",
+      "data_pagamento": "2026-08-23",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0029",
+      "reserva_id": "BK-0029",
+      "valor": 260,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-18",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0030",
+      "reserva_id": "BK-0030",
+      "valor": 275,
+      "moeda": "EUR",
+      "data_pagamento": "2026-09-11",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0031",
+      "reserva_id": "BK-0031",
+      "valor": 180,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-19",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0032",
+      "reserva_id": "BK-0032",
+      "valor": 236.5,
+      "moeda": "GBP",
+      "data_pagamento": null,
+      "metodo": "transferencia",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0034",
+      "reserva_id": "AB-0002",
+      "valor": 110,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-10",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0035",
+      "reserva_id": "AB-0003",
+      "valor": 490,
+      "moeda": "EUR",
+      "data_pagamento": "2026-08-01",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0036",
+      "reserva_id": "AB-0004",
+      "valor": 240,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "paypal",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0037",
+      "reserva_id": "AB-0005",
+      "valor": 570,
+      "moeda": "EUR",
+      "data_pagamento": "2026-01-20",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0038",
+      "reserva_id": "AB-0006",
+      "valor": 360,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-18",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0040",
+      "reserva_id": "AB-0008",
+      "valor": 330,
+      "moeda": "EUR",
+      "data_pagamento": "2026-08-23",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0041",
+      "reserva_id": "AB-0009",
+      "valor": 720,
+      "moeda": "EUR",
+      "data_pagamento": "2026-07-09",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0042",
+      "reserva_id": "AB-0010",
+      "valor": 420,
+      "moeda": "EUR",
+      "data_pagamento": "2026-04-07",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0043",
+      "reserva_id": "AB-0011",
+      "valor": 780,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "transferencia",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0044",
+      "reserva_id": "AB-0012",
+      "valor": 190,
+      "moeda": "EUR",
+      "data_pagamento": "2026-04-23",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0045",
+      "reserva_id": "AB-0013",
+      "valor": 210,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-29",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0046",
+      "reserva_id": "AB-0014",
+      "valor": 570,
+      "moeda": "EUR",
+      "data_pagamento": "2026-08-02",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0047",
+      "reserva_id": "AB-0015",
+      "valor": 475,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-19",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0049",
+      "reserva_id": "AB-0017",
+      "valor": 330,
+      "moeda": "EUR",
+      "data_pagamento": "2026-09-20",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0050",
+      "reserva_id": "AB-0018",
+      "valor": 360,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "paypal",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0051",
+      "reserva_id": "AB-0019",
+      "valor": 490,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-24",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0052",
+      "reserva_id": "AB-0020",
+      "valor": 320,
+      "moeda": "EUR",
+      "data_pagamento": "2026-09-03",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0053",
+      "reserva_id": "AB-0021",
+      "valor": 1120,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-17",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0055",
+      "reserva_id": "AB-0023",
+      "valor": 640,
+      "moeda": "EUR",
+      "data_pagamento": "2026-01-12",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0056",
+      "reserva_id": "AB-0024",
+      "valor": 210,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "mbway",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0057",
+      "reserva_id": "AB-0025",
+      "valor": 595,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "paypal",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0058",
+      "reserva_id": "AB-0026",
+      "valor": 110,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-21",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0059",
+      "reserva_id": "AB-0027",
+      "valor": 180,
+      "moeda": "EUR",
+      "data_pagamento": "2026-01-28",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0060",
+      "reserva_id": "AB-0028",
+      "valor": 600,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "mbway",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0061",
+      "reserva_id": "AB-0029",
+      "valor": 665,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "cartao",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0062",
+      "reserva_id": "AB-0030",
+      "valor": 650,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "mbway",
+      "estado": "pendente"
+    },
+    {
+      "pagamento_id": "PG-0063",
+      "reserva_id": "AB-0031",
+      "valor": 350,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-23",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0064",
+      "reserva_id": "AB-0032",
+      "valor": 220,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-31",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0065",
+      "reserva_id": "AB-0033",
+      "valor": 595,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "paypal",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0066",
+      "reserva_id": "AB-0034",
+      "valor": 480,
+      "moeda": "EUR",
+      "data_pagamento": "2026-04-20",
+      "metodo": "cartao",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0067",
+      "reserva_id": "AB-0035",
+      "valor": 285,
+      "moeda": "EUR",
+      "data_pagamento": "2026-04-18",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0068",
+      "reserva_id": "AB-0036",
+      "valor": 420,
+      "moeda": "EUR",
+      "data_pagamento": "2026-09-27",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0069",
+      "reserva_id": "AB-0037",
+      "valor": 490,
+      "moeda": "EUR",
+      "data_pagamento": "2026-05-19",
+      "metodo": "paypal",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0070",
+      "reserva_id": "AB-0038",
+      "valor": 480,
+      "moeda": "EUR",
+      "data_pagamento": "2026-06-16",
+      "metodo": "mbway",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-0071",
+      "reserva_id": "AB-0039",
+      "valor": 170,
+      "moeda": "EUR",
+      "data_pagamento": null,
+      "metodo": "paypal",
+      "estado": "falhado"
+    },
+    {
+      "pagamento_id": "PG-0072",
+      "reserva_id": "AB-0040",
+      "valor": 640,
+      "moeda": "EUR",
+      "data_pagamento": "2026-04-07",
+      "metodo": "transferencia",
+      "estado": "pago"
+    },
+    {
+      "pagamento_id": "PG-9999",
+      "reserva_id": "XX-0000",
+      "valor": 150,
+      "moeda": "EUR",
+      "data_pagamento": "2026-03-10",
+      "metodo": "cartao",
+      "estado": "pago"
+    }
+  ]
+}
